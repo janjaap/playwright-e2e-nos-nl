@@ -1,0 +1,15 @@
+{
+  "name": "playwright-e2e-nos-nl",
+  "version": "1.0.0",
+  "description": "Playwright setup for nos.nl",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@axe-core/playwright": "^4.10.1",
+    "playwright": "^1.49.1"
+  }
+}

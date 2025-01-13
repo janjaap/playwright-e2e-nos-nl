@@ -1,0 +1,32 @@
+### macOS ###
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+### Node ###
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Dependency directories
+node_modules/
+
+# TypeScript cache
+*.tsbuildinfo
+
+#NPM
+.npmrc
+
+# Optional npm cache directory
+.npm
+
+# Playwright
+test-results/
+playwright-report/
+blob-report/
+playwright/.cache/
